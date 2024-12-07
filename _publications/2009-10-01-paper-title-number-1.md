@@ -2,7 +2,6 @@
 title: "Team-Fictitious Play for Reaching Team-Nash
 Equilibrium in Multi-team Games"
 collection: publications
-category: manuscripts
 permalink: /publication/Team-Fictitious-Play-for-Reaching-Team-Nash-Equilibrium
 excerpt: 'This paper presents a simple multi-team learning algorithm that predicts the emerging team behavior without explicit communication of self-interested agents in multi-team zero-sum networked games.'
 date: 2024-01-01
