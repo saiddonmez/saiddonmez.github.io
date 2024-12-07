@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/Team-Fictitious-Play-for-Reaching-Team-Nash-Equilibrium
 excerpt: 'This paper presents a simple multi-team learning algorithm that predicts the emerging team behavior without explicit communication of self-interested agents in multi-team zero-sum networked games.'
 date: 2024-01-01
-venue: 'NeurIPS 2024'
+venue: 'Neural Information Processing Systems (NeurIPS)'
 paperurl: 'https://arxiv.org/pdf/2402.02147'
 citation: 
 ---
