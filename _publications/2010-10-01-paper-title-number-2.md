@@ -2,7 +2,6 @@
 title: "Generalized Individual Q-learning for Polymatrix Games with
 Partial Observations"
 collection: publications
-category: manuscripts
 permalink: /publication/Generalized-Individual-Q-Learning
 excerpt: 'This paper presents a generalized individual Q-learning algorithm which fills the gap between the payoff-based and belief-based dynamics under partially observed actions setting in separable networked games.'
 date: 2024-01-01
