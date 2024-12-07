@@ -17,6 +17,7 @@ I want to pursue Ph.D. in the area of robotics and learning next year. I am appl
   <a href="../images/neuripsPosterFinal.png" target="_blank">
   <img src="../images/neuripsPosterFinal.png" alt="Ahmed Said Dönmez" width="400">
 </p>
+
 ## 📚 Teaching Experience
 - **Bilkent University** - *Teaching Assistant*
   - EEE 212 - Microcontrollers and Embedded System (Spring 2024, Fall 2024)
