@@ -1,14 +1,28 @@
 ---
-title: "Paper Title Number 3"
+title: "Logit-Q dynamics for efficient learning in stochastic teams"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/logit-q-dynamics-for-efficient-learning
+excerpt: 'This paper presents a new family of logit-Q dynamics for efficient learning in stochastic games
+by combining the log-linear learning (also known as logit dynamics) for the repeated play
+of normal-form games with Q-learning for unknown Markov decision processes.'
+date: 2024-01-01
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/pdf/2302.09806'
+citation: 
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We present a new family of logit-Q dynamics for efficient learning in stochastic games
+by combining the log-linear learning (also known as logit dynamics) for the repeated play
+of normal-form games with Q-learning for unknown Markov decision processes within the
+auxiliary stage-game framework. In this framework, we view stochastic games as agents
+repeatedly playing some stage game associated with the current state of the underlying game
+while the agents’ Q-functions determine the payoffs of these stage games. We show that the
+logit-Q dynamics presented reach (near) efficient equilibrium in stochastic teams with unknown
+dynamics and quantify the approximation error. We also show the rationality of the logitQ dynamics against agents following pure stationary strategies and the convergence of the
+dynamics in stochastic games where the stage-payoffs induce potential games, yet only a single
+agent controls the state transitions beyond stochastic teams. The key idea is to approximate the
+dynamics with a fictional scenario where the Q-function estimates are stationary over epochs
+whose lengths grow at a sufficiently slow rate. We then couple the dynamics in the main and
+fictional scenarios to show that these two scenarios become more and more similar across epochs
+due to the vanishing step size and growing epoch lengths
