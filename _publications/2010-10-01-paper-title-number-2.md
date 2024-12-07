@@ -1,14 +1,26 @@
 ---
-title: "Paper Title Number 2"
+title: "Generalized Individual Q-learning for Polymatrix Games with
+Partial Observations"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/Team-Fictitious-Play-for-Reaching-Team-Nash-Equilibrium
+excerpt: 'This paper presents a generalized individual Q-learning algorithm which fills the gap between the payoff-based and belief-based dynamics under partially observed actions setting in separable networked games.'
+date: 2024-01-01
+venue: 'Conference on Decision and Control (CDC) 2024'
+paperurl: 'https://arxiv.org/pdf/2409.02663'
+citation: 
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper addresses the challenge of limited observations
+in non-cooperative multi-agent systems where agents
+can have partial access to other agents’ actions. We present
+the generalized individual Q-learning dynamics that combine
+belief-based and payoff-based learning for the networked interconnections
+of more than two self-interested agents. This
+approach leverages access to opponents’ actions whenever possible,
+demonstrably achieving a faster (guaranteed) convergence
+to quantal response equilibrium in multi-agent zero-sum and
+potential polymatrix games. Notably, the dynamics reduce to the
+well-studied smoothed fictitious play and individual Q-learning
+under full and no access to opponent actions, respectively. We
+further quantify the improvement in convergence rate due to
+observing opponents’ actions through numerical simulations.
