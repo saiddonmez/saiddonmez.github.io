@@ -13,7 +13,9 @@ I want to pursue Ph.D. in the area of robotics and learning next year. I am appl
 
 ## 📰 Recent News
 - 🎉 Our paper "Team-Fictitious Play for Reaching Team-Nash Equilibrium in Multi-team Games" has been accepted for presentation at the **[NeurIPS 2024](https://neurips.cc/virtual/2024/poster/96521)**!
-
+<p align="center">
+  <img src="images/neuripsPosterFinal.png" alt="Ahmed Said Dönmez" width="200">
+</p>
 ## 📚 Teaching Experience
 - **Bilkent University** - *Teaching Assistant*
   - EEE 212 - Microcontrollers and Embedded System (Spring 2024, Fall 2024)
