@@ -1,7 +1,6 @@
 ---
 title: "Logit-Q dynamics for efficient learning in stochastic teams"
 collection: publications
-category: manuscripts
 permalink: /publication/logit-q-dynamics-for-efficient-learning
 excerpt: 'This paper presents a new family of logit-Q dynamics for efficient learning in stochastic games
 by combining the log-linear learning (also known as logit dynamics) for the repeated play
