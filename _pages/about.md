@@ -16,6 +16,7 @@ I want to pursue Ph.D. in the area of robotics and learning next year. I am appl
 <p align="center">
   <a href="../images/neuripsPosterFinal.png" target="_blank">
   <img src="../images/neuripsPosterFinal.png" alt="Ahmed Said Dönmez" width="400">
+  </a>
 </p>
 
 ## 📚 Teaching Experience
