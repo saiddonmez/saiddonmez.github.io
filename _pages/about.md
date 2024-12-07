@@ -12,9 +12,10 @@ I am currently pursuing an M.S. degree in Electrical and Electronics Engineering
 I want to pursue Ph.D. in the area of robotics and learning next year. I am applying to top-tier robotics lab in the world for my Ph.D. studies.
 
 ## 📰 Recent News
-- 🎉 Our paper "Team-Fictitious Play for Reaching Team-Nash Equilibrium in Multi-team Games" has been accepted for presentation at the **[NeurIPS 2024](https://neurips.cc/virtual/2024/poster/96521)**!
+- 🎉 Our paper "Team-Fictitious Play for Reaching Team-Nash Equilibrium in Multi-team Games" has been accepted for presentation at the **[NeurIPS 2024](https://neurips.cc/virtual/2024/poster/96521)**! Check our poster:
 <p align="center">
-  <img src="../images/neuripsPosterFinal.png" alt="Ahmed Said Dönmez" width="200">
+  <a href="../images/neuripsPosterFinal.png" target="_blank">
+  <img src="../images/neuripsPosterFinal.png" alt="Ahmed Said Dönmez" width="400">
 </p>
 ## 📚 Teaching Experience
 - **Bilkent University** - *Teaching Assistant*
